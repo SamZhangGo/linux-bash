@@ -1,4 +1,5 @@
 #!/bin/bash
+#this is none used line
 #get newest hosts file from https://github.com/racaljk/hosts
 echo -e "\e[1;32m Begin to get newest hosts,please waiting for operation finished.\e[0m"
 wget https://raw.githubusercontent.com/racaljk/hosts/master/hosts -qO /tmp/hosts
